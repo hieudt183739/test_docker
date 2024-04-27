@@ -1,0 +1,6 @@
+{
+    "name": "Custem Default Linux Universal",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
